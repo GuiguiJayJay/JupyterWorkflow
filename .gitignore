@@ -102,3 +102,6 @@ ENV/
 
 # data
 freemont.csv
+
+# tempfiles
+*~
